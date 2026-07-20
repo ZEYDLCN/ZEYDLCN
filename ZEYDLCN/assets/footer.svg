@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" role="img" aria-label="">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.5">
+    <path fill="url(#grad)" d="M0,80 L2400,80 L2400,30 C2300,12 2200,48 2100,30 C2000,12 1900,48 1800,30 C1700,12 1600,48 1500,30 C1400,12 1300,48 1200,30 C1100,12 1000,48 900,30 C800,12 700,48 600,30 C500,12 400,48 300,30 C200,12 100,48 0,30 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-1200,0;0,0" dur="14s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <path fill="url(#grad)" d="M0,80 L2400,80 L2400,38 C2300,56 2200,20 2100,38 C2000,56 1900,20 1800,38 C1700,56 1600,20 1500,38 C1400,56 1300,20 1200,38 C1100,56 1000,20 900,38 C800,56 700,20 600,38 C500,56 400,20 300,38 C200,56 100,20 0,38 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-1200,0;0,0" dur="10s" repeatCount="indefinite"/>
+  </path>
+</svg>
