@@ -1,10 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30206086/README.md)
-## Hi there 👋
-
-<!--
-**ZEYDLCN/ZEYDLCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<div align="center">
+<div align="center">
 
 <img src="assets/header.svg" width="100%" alt="Zeyd Alcan" />
 
@@ -25,9 +19,9 @@ Here are some ideas to get you started:<div align="center">
 ```yaml
 Name:     Zeyd Alcan
 Role:     Software Engineer
-Company:  Odeabank (Software Engineer Intern)
+Company:  Odeabank (Software Engineer Developer)
 Location: Istanbul, Turkey
-Focus:    AI Integration (RAG · Agentic RAG · MCP) · .NET Backend · Microservices
+Focus:    AI Integration (RAG · Agentic RAG · MCP · ML · ScikitLearn ) · .NET Backend · Microservices
 Languages: Turkish (Native) · English (B2)
 ```
 
@@ -180,14 +174,3 @@ Atatürk University        2025 — 2027   Web Design & Development
 <div align="center">
   <img src="assets/footer.svg" width="100%" alt="" />
 </div>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
