@@ -19,7 +19,7 @@
 ```yaml
 Name:     Zeyd Alcan
 Role:     Software Engineer
-Company:  Odeabank (Software Engineer Developer)
+Company:  Odeabank (Software Developer)
 Location: Istanbul, Turkey
 Focus:    AI Integration (RAG · Agentic RAG · MCP · ML · ScikitLearn ) · .NET Backend · Microservices
 Languages: Turkish (Native) · English (B2)
