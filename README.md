@@ -163,7 +163,7 @@ Atatürk University        2025 — 2027   Web Design & Development
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZEYDLCN&hide_border=true&background=0d1117&ring=A855F7&fire=FF6D00&currStreakLabel=A855F7&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=A855F7&dates=6e7681)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZEYDLCN&hide_border=true&background=0d1117&ring=A855F7&fire=FF6D00&currStreakLabel=A855F7&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=A855F7&dates=6e7681)](https://git.io/streak-stats)
 
 </div>
 
