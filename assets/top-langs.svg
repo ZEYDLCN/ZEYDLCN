@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="276" viewBox="0 0 360 276" fill="none" role="img" aria-label="Most used languages">
 <rect width="360" height="276" rx="4.5" fill="#0d1117"/>
 <text x="25" y="38" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#A855F7">Most Used Languages</text>
-<circle cx="275" cy="156.0" r="52" stroke="#3572A5" stroke-width="14" stroke-dasharray="115.36 211.36" stroke-dashoffset="-0.00" transform="rotate(-90 275 156.0)"/>
-<circle cx="275" cy="156.0" r="52" stroke="#e34c26" stroke-width="14" stroke-dasharray="111.82 214.90" stroke-dashoffset="-115.36" transform="rotate(-90 275 156.0)"/>
-<circle cx="275" cy="156.0" r="52" stroke="#3178c6" stroke-width="14" stroke-dasharray="42.66 284.06" stroke-dashoffset="-227.19" transform="rotate(-90 275 156.0)"/>
-<circle cx="275" cy="156.0" r="52" stroke="#178600" stroke-width="14" stroke-dasharray="22.34 304.39" stroke-dashoffset="-269.85" transform="rotate(-90 275 156.0)"/>
-<circle cx="275" cy="156.0" r="52" stroke="#b07219" stroke-width="14" stroke-dasharray="14.43 312.29" stroke-dashoffset="-292.19" transform="rotate(-90 275 156.0)"/>
-<circle cx="275" cy="156.0" r="52" stroke="#f1e05a" stroke-width="14" stroke-dasharray="9.63 317.09" stroke-dashoffset="-306.62" transform="rotate(-90 275 156.0)"/>
-<circle cx="275" cy="156.0" r="52" stroke="#8b949e" stroke-width="14" stroke-dasharray="6.40 320.32" stroke-dashoffset="-316.25" transform="rotate(-90 275 156.0)"/>
-<circle cx="275" cy="156.0" r="52" stroke="#663399" stroke-width="14" stroke-dasharray="4.07 322.65" stroke-dashoffset="-322.65" transform="rotate(-90 275 156.0)"/>
+<circle cx="275" cy="156.0" r="52" stroke="#3572A5" stroke-width="14" stroke-dasharray="112.91 213.82" stroke-dashoffset="-0.00" transform="rotate(-90 275 156.0)"/>
+<circle cx="275" cy="156.0" r="52" stroke="#e34c26" stroke-width="14" stroke-dasharray="104.12 222.60" stroke-dashoffset="-112.91" transform="rotate(-90 275 156.0)"/>
+<circle cx="275" cy="156.0" r="52" stroke="#3178c6" stroke-width="14" stroke-dasharray="43.40 283.32" stroke-dashoffset="-217.03" transform="rotate(-90 275 156.0)"/>
+<circle cx="275" cy="156.0" r="52" stroke="#178600" stroke-width="14" stroke-dasharray="34.05 292.67" stroke-dashoffset="-260.43" transform="rotate(-90 275 156.0)"/>
+<circle cx="275" cy="156.0" r="52" stroke="#b07219" stroke-width="14" stroke-dasharray="13.44 313.29" stroke-dashoffset="-294.49" transform="rotate(-90 275 156.0)"/>
+<circle cx="275" cy="156.0" r="52" stroke="#f1e05a" stroke-width="14" stroke-dasharray="8.99 317.74" stroke-dashoffset="-307.93" transform="rotate(-90 275 156.0)"/>
+<circle cx="275" cy="156.0" r="52" stroke="#8b949e" stroke-width="14" stroke-dasharray="5.96 320.77" stroke-dashoffset="-316.92" transform="rotate(-90 275 156.0)"/>
+<circle cx="275" cy="156.0" r="52" stroke="#663399" stroke-width="14" stroke-dasharray="3.85 322.88" stroke-dashoffset="-322.88" transform="rotate(-90 275 156.0)"/>
 <circle cx="31" cy="68" r="5" fill="#3572A5"/>
-<text x="44" y="72" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Python 35.31%</text>
+<text x="44" y="72" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Python 34.56%</text>
 <circle cx="31" cy="90" r="5" fill="#e34c26"/>
-<text x="44" y="94" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">HTML 34.23%</text>
+<text x="44" y="94" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">HTML 31.87%</text>
 <circle cx="31" cy="112" r="5" fill="#3178c6"/>
-<text x="44" y="116" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">TypeScript 13.06%</text>
+<text x="44" y="116" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">TypeScript 13.28%</text>
 <circle cx="31" cy="134" r="5" fill="#178600"/>
-<text x="44" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">C# 6.84%</text>
+<text x="44" y="138" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">C# 10.42%</text>
 <circle cx="31" cy="156" r="5" fill="#b07219"/>
-<text x="44" y="160" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Java 4.42%</text>
+<text x="44" y="160" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Java 4.11%</text>
 <circle cx="31" cy="178" r="5" fill="#f1e05a"/>
-<text x="44" y="182" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">JavaScript 2.95%</text>
+<text x="44" y="182" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">JavaScript 2.75%</text>
 <circle cx="31" cy="200" r="5" fill="#8b949e"/>
-<text x="44" y="204" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Jupyter Notebook 1.96%</text>
+<text x="44" y="204" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">Jupyter Notebook 1.82%</text>
 <circle cx="31" cy="222" r="5" fill="#663399"/>
-<text x="44" y="226" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">CSS 1.25%</text>
+<text x="44" y="226" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12" fill="#c9d1d9">CSS 1.18%</text>
 </svg>
