@@ -10,11 +10,9 @@
 [![Email](https://img.shields.io/badge/Email-zeydalcan00%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zeydalcan00@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ZEYDLCN&color=A855F7&style=flat&label=Views)](https://github.com/ZEYDLCN)
 
+<img src="assets/divider.svg" width="100%" height="24" alt="" />
+
 </div>
-
----
-
-## 👋 Profile
 
 > Software Engineer with corporate backend experience in the **financial sector**. I build distributed
 > microservice systems with **.NET 8, ASP.NET Core, RabbitMQ and CQRS/MediatR**, and ship
@@ -33,23 +31,30 @@
 
 </div>
 
-| | |
-|---|---|
-| **Role** | Software Engineer — Backend & Applied AI |
-| **Company** | Odeabank, Istanbul |
-| **Focus** | Distributed systems · AI integration (RAG, Agentic RAG, MCP) · API security |
-| **Languages** | Turkish (native) · English (B2) |
-| **Certified by** | Anthropic — Claude Code, Claude API, MCP |
+<table>
+  <tr valign="top">
+    <td width="33%">
+      <b>Day job</b><br/>
+      Software Engineer at <b>Odeabank</b> — MCP tool infrastructure, event-driven microservices and RAG chatbots for banking.
+    </td>
+    <td width="33%">
+      <b>Leading</b><br/>
+      AI Team Lead at the <b>Istanbul Softito (ITO)</b> AI Engineering Academy, affiliated with the Istanbul Chamber of Commerce.
+    </td>
+    <td width="33%">
+      <b>Shipping</b><br/>
+      AlphaMemo, Pipeline Sentinel AI and FinVoice Ops — AI products with live demos and open-source code.
+    </td>
+  </tr>
+</table>
 
----
-
-## 🧭 Expertise
+## Expertise
 
 <table>
   <tr>
-    <th width="33%">⚙️ Backend & Distributed Systems</th>
-    <th width="33%">🤖 Applied AI & LLM</th>
-    <th width="33%">🗄️ Data & Platform</th>
+    <th width="33%">Backend & Distributed Systems</th>
+    <th width="33%">Applied AI & LLM</th>
+    <th width="33%">Data & Platform</th>
   </tr>
   <tr valign="top">
     <td>
@@ -85,21 +90,22 @@
   </tr>
 </table>
 
-### 🛠️ Tech Stack
-
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,fastapi,flask,nodejs,js,ts,cpp&theme=dark" alt="Languages & Frameworks" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,fastapi,flask,nodejs,js,ts,cpp&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,fastapi,flask,nodejs,js,ts,cpp&theme=light" alt="Languages and frameworks" />
+</picture>
 <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,rabbitmq,redis,elasticsearch,postgres,mongodb,docker,kubernetes,linux&theme=dark" alt="Frontend, Messaging, Data & DevOps" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,tailwind,vite,rabbitmq,redis,elasticsearch,postgres,mongodb,docker,kubernetes,linux&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,rabbitmq,redis,elasticsearch,postgres,mongodb,docker,kubernetes,linux&theme=light" alt="Frontend, messaging, data and DevOps" />
+</picture>
 <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,githubactions,vercel,vscode,idea,androidstudio&theme=dark" alt="AI/ML & Tooling" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,githubactions,vercel,vscode,idea,androidstudio&theme=dark">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,githubactions,vercel,vscode,idea,androidstudio&theme=light" alt="AI/ML and tooling" />
+</picture>
 
 <br/><br/>
 
@@ -122,9 +128,9 @@
 
 </div>
 
-### 🏗️ How I Design Systems
+### How I design systems
 
-A reference view of the patterns I work with day to day — gateway-secured, event-driven, observable.
+The patterns I work with day to day: gateway-secured, event-driven and observable.
 
 ```mermaid
 flowchart LR
@@ -137,46 +143,134 @@ flowchart LR
     S --> L[("ElasticSearch<br/>Centralized logs · Correlation IDs")]
 ```
 
----
-
-## 💼 Experience
+## Experience
 
 ### Odeabank — Software Engineer Intern
 `Istanbul` · `Jul 2025 — Present`
 
 | Platform | What I built |
 |---|---|
-| **MCP Tools Infrastructure** | 70+ MCP tools behind an API Gateway. Scalable architecture with CQRS, MediatR, an MCP Orchestrator, a ViewModel layer and Redis distributed cache, designed for 20+ public and 50+ OAuth 2.0-authenticated banking services. |
-| **Trendyol Finance Chatbot (RAG & MCP)** | RAG server on a FAISS vector database with embedding models for semantic search; NLP middleware with dynamic endpoint selection, hybrid search and Pydantic schema validation over MCP. |
-| **Speech Service Platform** | STT/TTS services for the AI Voice Assistant, built as a .NET Web API integrating Sestek, Google Speech and OpenAI Whisper, with Factory and Strategy patterns for provider selection. Python Faster-Whisper deployed to production on Linux via systemd. |
-| **Workforce Management Platform** | Full-stack HR team-management platform on ASP.NET Core (.NET 8) and React.js — Clean Architecture, EF Core, DI — with timesheet effort tracking and job-definition infrastructure, end to end. |
-| **Fraud Detection & Identity Verification** | NFC, PIN and SMS verification flows on a RabbitMQ event-driven pub/sub architecture, keeping inter-service dependencies minimal through asynchronous messaging. |
-| **Centralized Logging Infrastructure** | Distributed logging on RabbitMQ and ElasticSearch with structured logs and async transmission; correlation IDs give cross-service traceability and shorter error detection time. |
-| **API Gateway Modernization** | JWT Bearer and OAuth 2.0 authentication integrated with rate limiting, request routing and load balancing to optimize inter-service communication. |
-| **Performance Management System** | Role-based performance evaluation app on React 19, TypeScript, Tailwind CSS and TanStack Query — frontend, backend integration, production deployment and an xUnit/Moq unit-test foundation. |
+| **MCP Tools Infrastructure** | 70+ MCP tools behind an API Gateway, on CQRS, MediatR, an MCP Orchestrator, a ViewModel layer and Redis distributed cache — designed for 20+ public and 50+ OAuth 2.0-authenticated banking services. |
+| **Trendyol Finance Chatbot (RAG & MCP)** | FAISS vector search with embedding models; NLP middleware for dynamic endpoint selection, hybrid search and Pydantic schema validation over MCP. |
+| **Speech Service Platform** | STT/TTS for the AI Voice Assistant on a .NET Web API (Sestek, Google Speech, OpenAI Whisper) with Factory and Strategy patterns; Faster-Whisper in production on Linux via systemd. |
+| **Workforce Management Platform** | Full-stack HR team-management app on ASP.NET Core (.NET 8) and React.js with Clean Architecture and EF Core; timesheet tracking and job definitions built end to end. |
+| **Fraud Detection & Identity Verification** | NFC, PIN and SMS verification flows on RabbitMQ pub/sub, keeping inter-service dependencies low through asynchronous messaging. |
+| **Centralized Logging** | Distributed, structured logging over RabbitMQ and ElasticSearch; correlation IDs give cross-service traceability and faster error detection. |
+| **API Gateway Modernization** | JWT Bearer and OAuth 2.0 with rate limiting, request routing and load balancing. |
+| **Performance Management System** | Role-based evaluation app on React 19, TypeScript, Tailwind CSS and TanStack Query — backend integration, production deployment and an xUnit/Moq test foundation. |
 
 <sub>**Stack:** .NET 8 · ASP.NET Core · C# · EF Core · React 19 · TypeScript · Tailwind CSS · RabbitMQ · PostgreSQL · Redis · ElasticSearch · MediatR · JWT · OAuth 2.0 · RAG · MCP · FAISS · Whisper · Swagger/OpenAPI · Docker · Kubernetes · xUnit · Moq</sub>
 
-### Earlier Experience
+### Earlier roles
 
 | Company | Role | Period | Highlights |
 |---|---|---|---|
-| **LC Waikiki** | Software Engineer Intern | Jul 2024 — Sep 2024 | RESTful backend services with ASP.NET Core Web API and EF Core on Clean Architecture; enterprise API standards (Repository-Service pattern, AutoMapper, FluentValidation, Swagger/OpenAPI, versioning); Redis caching, rate limiting, data shaping and HATEOAS for faster API responses. |
-| **Smart System Electronic** | Software Engineer Intern | Jun 2023 — Sep 2023 | Corporate Android app in Java — XML UI layouts, REST API integration and SharedPreferences local storage, delivered end to end. |
+| **LC Waikiki** | Software Engineer Intern | Jul 2024 — Sep 2024 | RESTful services on ASP.NET Core Web API, EF Core and Clean Architecture; API standards with AutoMapper, FluentValidation, Swagger/OpenAPI and versioning; Redis caching, rate limiting and HATEOAS. |
+| **Smart System Electronic** | Software Engineer Intern | Jun 2023 — Sep 2023 | Corporate Android app in Java — XML layouts, REST API integration and local storage, delivered end to end. |
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+<table>
+  <tr valign="top">
+    <td width="50%">
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **FlowGuard**<br/><sub>Transaction & incident management</sub> | Event-driven microservices platform for real-time financial transactions — Saga/Outbox patterns, idempotent consumers, retry/DLQ; Circuit Breaker, correlation/trace IDs, health checks and rate limiting. | `.NET 8` `EF Core` `MSSQL` `CQRS` `MediatR` `RabbitMQ` `Redis` `JWT` `Docker` `Kubernetes` | — |
-| **AlphaMemo**<br/><sub>AI investment evaluation</sub> | Cuts VC pre-evaluation to seconds. RAG pipeline on FAISS, Qwen2.5-1.5B fine-tuned with QLoRA on synthetic data, and a 4-agent LangGraph state machine behind a FastAPI service on HuggingFace Spaces + ZeroGPU. | `Python` `FastAPI` `LangGraph` `FAISS` `QLoRA` `Pydantic` | [Live](https://alphamemo.vercel.app) |
-| **Pipeline Sentinel AI**<br/><sub>Data reliability platform</sub> | Early detection of pipeline failures: data contracts, robust z-score anomaly detection, quality monitoring, column-level lineage and downstream impact mapping. Confidence-scored root-cause reports with human-approved SQL/dbt patch suggestions — 100% RCA accuracy across 6 failure scenarios, 165+ automated tests. | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Playwright` | [Live](https://www.pipelinesentinel.dev) · [Code](https://github.com/ZEYDLCN/PipeSentinel) |
-| **FinVoice Ops**<br/><sub>Local-first voice AI</sub> | Voice AI for banking and insurance operations with no paid API. LangGraph agent with tool calling, enterprise REST integration, RAG search, STT/TTS and Prometheus / Grafana / OpenTelemetry observability. | `Python` `LangGraph` `Ollama (Qwen3)` `faster-whisper` `Piper TTS` `Next.js` `Docker` | — |
-| **YKS University Placement Predictor** | Placement prediction for 11,154 programs from 7 years of data using lognormal distribution and Monte Carlo — **96.85%** decision accuracy, **98.79%** band coverage. | `Python` `React` `TypeScript` `Tailwind` `SciPy` `Polars` | [Live](https://tercih-asistani-projects.vercel.app) |
-| **YDS Smart Study**<br/><sub>Adaptive learning PWA</sub> | Progressive web app with 1,100+ practice questions, personalized study plans and 660 vocabulary flashcards, powered by spaced repetition and learning analytics. | `PWA` `Spaced Repetition` `Learning Analytics` | [Live](https://yds-2vuo.onrender.com) |
-| **Folume**<br/><sub>Academic PDF reader</sub> | Mobile-first reading platform that turns PDF documents into an optimized reading experience — PDF processing, document rendering and responsive UI/UX. | `PDF Processing` `Responsive Design` `UI/UX` | [Live](https://folume.2103013235.workers.dev) |
+**[AlphaMemo](https://alphamemo.vercel.app)**<br/>
+<sub>AI investment evaluation</sub>
+
+Cuts VC pre-evaluation to seconds: FAISS RAG pipeline, Qwen2.5-1.5B fine-tuned with QLoRA and a 4-agent LangGraph state machine behind FastAPI.
+
+`Python` `FastAPI` `LangGraph` `FAISS` `QLoRA`
+
+[Live demo](https://alphamemo.vercel.app) · [Source](https://github.com/ZEYDLCN/AlphaMemo)
+
+</td>
+    <td width="50%">
+
+**[Pipeline Sentinel AI](https://www.pipelinesentinel.dev)**<br/>
+<sub>Data reliability platform</sub>
+
+Detects pipeline failures early — data contracts, anomaly detection, lineage and impact mapping — with confidence-scored root-cause reports. 100% RCA accuracy across 6 failure scenarios, 165+ automated tests.
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Playwright`
+
+[Live demo](https://www.pipelinesentinel.dev) · [Source](https://github.com/ZEYDLCN/PipeSentinel)
+
+</td>
+  </tr>
+  <tr valign="top">
+    <td>
+
+**FlowGuard**<br/>
+<sub>Distributed transaction & incident management</sub>
+
+Event-driven microservices for real-time financial transactions: Saga/Outbox, idempotent consumers, retry/DLQ, Circuit Breaker, trace IDs and health checks.
+
+`.NET 8` `CQRS` `MediatR` `RabbitMQ` `Redis` `Kubernetes`
+
+</td>
+    <td>
+
+**[FinVoice Ops](https://github.com/ZEYDLCN/FinVoice)**<br/>
+<sub>Local-first voice AI automation</sub>
+
+Voice AI for banking and insurance operations with no paid API: LangGraph agent with tool calling, REST integration, RAG search, STT/TTS and Prometheus/Grafana/OpenTelemetry observability.
+
+`Python` `LangGraph` `Ollama` `faster-whisper` `Next.js`
+
+[Source](https://github.com/ZEYDLCN/FinVoice)
+
+</td>
+  </tr>
+  <tr valign="top">
+    <td>
+
+**[YKS Placement Predictor](https://tercih-asistani-projects.vercel.app)**<br/>
+<sub>University placement prediction</sub>
+
+Predicts placement for 11,154 programs from 7 years of data using a lognormal model and Monte Carlo — **96.85%** decision accuracy, **98.79%** band coverage.
+
+`Python` `React` `TypeScript` `SciPy` `Polars`
+
+[Live demo](https://tercih-asistani-projects.vercel.app)
+
+</td>
+    <td>
+
+**[YDS Smart Study](https://yds-2vuo.onrender.com)**<br/>
+<sub>Adaptive learning PWA</sub>
+
+1,100+ practice questions, personalized study plans and 660 vocabulary flashcards, driven by spaced repetition and learning analytics.
+
+`PWA` `Spaced Repetition` `Learning Analytics`
+
+[Live demo](https://yds-2vuo.onrender.com)
+
+</td>
+  </tr>
+  <tr valign="top">
+    <td>
+
+**[Folume](https://folume.2103013235.workers.dev)**<br/>
+<sub>Academic PDF reading platform</sub>
+
+Mobile-first reader that turns PDFs into an optimized reading experience: PDF processing, document rendering and responsive UI/UX.
+
+`PDF Processing` `Responsive Design` `UI/UX`
+
+[Live demo](https://folume.2103013235.workers.dev) · [Source](https://github.com/ZEYDLCN/folume)
+
+</td>
+    <td align="center" valign="middle">
+
+**More on GitHub**
+
+Data pipelines, ML models and tooling.
+
+[Browse all repositories →](https://github.com/ZEYDLCN?tab=repositories)
+
+</td>
+  </tr>
+</table>
 
 <details>
 <summary><b>More projects</b> — data engineering, machine learning, tooling</summary>
@@ -198,9 +292,7 @@ flowchart LR
 
 </details>
 
----
-
-## 🎓 Education & Certifications
+## Education & Certifications
 
 | Institution | Program | Period |
 |---|---|---|
@@ -218,23 +310,25 @@ flowchart LR
 
 </div>
 
----
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="assets/top-langs.svg" alt="Most used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/top-langs-dark.svg">
+  <img src="assets/top-langs-light.svg" alt="Most used languages by code volume" width="495" />
+</picture>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZEYDLCN&hide_border=true&background=0d1117&ring=A855F7&fire=FF6D00&currStreakLabel=A855F7&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=A855F7&dates=6e7681)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ZEYDLCN&hide_border=true&background=0d1117&ring=A855F7&fire=FF6D00&currStreakLabel=A855F7&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=A855F7&dates=6e7681">
+  <img src="https://streak-stats.demolab.com/?user=ZEYDLCN&hide_border=true&background=ffffff&ring=7C3AED&fire=FF6D00&currStreakLabel=7C3AED&sideNums=1f2328&currStreakNum=1f2328&sideLabels=7C3AED&dates=59636e" alt="GitHub streak" />
+</picture>
 
 </div>
 
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 I enjoy talking about distributed systems, applied AI and MCP integrations in regulated environments.
 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/zeyd-alcan-33a1a5225) or
