@@ -19,6 +19,7 @@ import urllib.request
 
 USERNAME = "ZEYDLCN"
 LANGS_COUNT = 6
+MIN_SHARE = 1.0  # percent; anything smaller is noise on a chart this size
 ASSETS_DIR = os.path.join(os.path.dirname(__file__), "..", "assets")
 
 IGNORED_LANGUAGES = {
@@ -96,12 +97,13 @@ def collect(token):
 
 
 def summarize(totals):
-    """Top LANGS_COUNT languages as (name, percent, color), the rest folded into 'Other'."""
+    """Top LANGS_COUNT languages above MIN_SHARE as (name, percent, color); the tail becomes 'Other'."""
     ranked = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)
     total = sum(size for _, size in ranked)
-    langs = [(n, s / total * 100, COLORS.get(n, FALLBACK_COLOR)) for n, s in ranked[:LANGS_COUNT]]
-    rest = sum(s for _, s in ranked[LANGS_COUNT:])
-    if rest:
+    shown = [(n, s) for n, s in ranked[:LANGS_COUNT] if s / total * 100 >= MIN_SHARE]
+    langs = [(n, s / total * 100, COLORS.get(n, FALLBACK_COLOR)) for n, s in shown]
+    rest = total - sum(s for _, s in shown)
+    if rest / total * 100 >= MIN_SHARE:
         langs.append(("Other", rest / total * 100, OTHER_COLOR))
     return langs
 

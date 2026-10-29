@@ -43,7 +43,7 @@
     </td>
     <td width="33%">
       <b>Shipping</b><br/>
-      AlphaMemo, Pipeline Sentinel AI and FinVoice Ops — AI products with live demos and open-source code.
+      AlphaMemo, Pipeline Sentinel AI and FinVoice Ops — AI products with live demos, several with public source.
     </td>
   </tr>
 </table>
@@ -181,7 +181,7 @@ Cuts VC pre-evaluation to seconds: FAISS RAG pipeline, Qwen2.5-1.5B fine-tuned w
 
 `Python` `FastAPI` `LangGraph` `FAISS` `QLoRA`
 
-[Live demo](https://alphamemo.vercel.app) · [Source](https://github.com/ZEYDLCN/AlphaMemo)
+[Live demo](https://alphamemo.vercel.app)
 
 </td>
     <td width="50%">
