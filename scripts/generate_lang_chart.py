@@ -40,9 +40,9 @@ OTHER_COLOR = "#6e7681"
 
 THEMES = {
     "dark": dict(bg="#0d1117", border="#30363d", title="#e6edf3", text="#c9d1d9",
-                 muted="#8b949e", track="#21262d", accent="#A855F7"),
+                 muted="#8b949e", track="#21262d", accent="#0066FD"),
     "light": dict(bg="#ffffff", border="#d0d7de", title="#1f2328", text="#1f2328",
-                  muted="#59636e", track="#eaeef2", accent="#7C3AED"),
+                  muted="#59636e", track="#eaeef2", accent="#0066FD"),
 }
 
 FONT = "'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif"

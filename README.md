@@ -2,13 +2,16 @@
 
 <img src="assets/header.svg" width="100%" alt="Zeyd Alcan — Software Engineer, Backend & Applied AI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=24&lines=Software+Engineer+%40+Odeabank;.NET+8+%C2%B7+Microservices+%C2%B7+CQRS+%C2%B7+RabbitMQ;RAG+%C2%B7+Multi-Agent+%28LangGraph%29+%C2%B7+MCP+%C2%B7+QLoRA;Building+production-ready+AI+for+finance;Istanbul%2C+Turkey" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4D94FF&center=true&vCenter=true&repeat=true&width=620&height=24&lines=Software+Engineer+%40+Odeabank;.NET+8+%C2%B7+Microservices+%C2%B7+CQRS+%C2%B7+RabbitMQ;RAG+%C2%B7+Multi-Agent+%28LangGraph%29+%C2%B7+MCP+%C2%B7+QLoRA;Building+production-ready+AI+for+finance;Istanbul%2C+Turkey">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0066FD&center=true&vCenter=true&repeat=true&width=620&height=24&lines=Software+Engineer+%40+Odeabank;.NET+8+%C2%B7+Microservices+%C2%B7+CQRS+%C2%B7+RabbitMQ;RAG+%C2%B7+Multi-Agent+%28LangGraph%29+%C2%B7+MCP+%C2%B7+QLoRA;Building+production-ready+AI+for+finance;Istanbul%2C+Turkey" alt="Typing SVG" />
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zeyd--alcan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyd-alcan-33a1a5225)
-[![GitHub](https://img.shields.io/badge/GitHub-ZEYDLCN-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZEYDLCN)
-[![Medium](https://img.shields.io/badge/Medium-@ZeydAlcan-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ZeydAlcan)
-[![Email](https://img.shields.io/badge/Email-zeydalcan00%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zeydalcan00@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ZEYDLCN&color=A855F7&style=flat&label=Views)](https://github.com/ZEYDLCN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zeyd--alcan-0066FD?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyd-alcan-33a1a5225)
+[![GitHub](https://img.shields.io/badge/GitHub-ZEYDLCN-0066FD?style=flat&logo=github&logoColor=white)](https://github.com/ZEYDLCN)
+[![Medium](https://img.shields.io/badge/Medium-@ZeydAlcan-0066FD?style=flat&logo=medium&logoColor=white)](https://medium.com/@ZeydAlcan)
+[![Email](https://img.shields.io/badge/Email-zeydalcan00%40gmail.com-0066FD?style=flat&logo=gmail&logoColor=white)](mailto:zeydalcan00@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ZEYDLCN&color=0066FD&style=flat&label=Views)](https://github.com/ZEYDLCN)
 
 <img src="assets/divider.svg" width="100%" height="24" alt="" />
 
@@ -109,22 +112,22 @@
 
 <br/><br/>
 
-![RAG](https://img.shields.io/badge/RAG-A855F7?style=flat-square)
-![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-A855F7?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-A855F7?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-A855F7?style=flat-square)
-![QLoRA](https://img.shields.io/badge/QLoRA-A855F7?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS-7C3AED?style=flat-square)
-![MediatR](https://img.shields.io/badge/MediatR-7C3AED?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-7C3AED?style=flat-square)
-![API Gateway](https://img.shields.io/badge/API_Gateway-7C3AED?style=flat-square)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-7C3AED?style=flat-square)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](#)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0066FD?style=flat-square)
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-0066FD?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0066FD?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-0066FD?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA-0066FD?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-0066FD?style=flat-square)
+![MediatR](https://img.shields.io/badge/MediatR-0066FD?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0066FD?style=flat-square)
+![API Gateway](https://img.shields.io/badge/API_Gateway-0066FD?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0066FD?style=flat-square)
+[![JWT](https://img.shields.io/badge/JWT-0066FD?style=flat-square&logo=jsonwebtokens&logoColor=white)](#)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-0066FD?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0066FD?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0066FD?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0066FD?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0066FD?style=flat-square)
 
 </div>
 
@@ -133,6 +136,7 @@
 The patterns I work with day to day: gateway-secured, event-driven and observable.
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#E8F1FF", "primaryTextColor": "#050A14", "primaryBorderColor": "#0066FD", "lineColor": "#0066FD", "secondaryColor": "#E8F1FF", "tertiaryColor": "#FFFFFF"}}}%%
 flowchart LR
     C(["Clients<br/>Web · Mobile · AI Agents"]) --> G["API Gateway<br/>JWT · OAuth 2.0 · Rate Limiting"]
     G --> S["Microservices<br/>ASP.NET Core · CQRS · MediatR"]
@@ -302,11 +306,11 @@ Data pipelines, ML models and tooling.
 
 <div align="center">
 
-![Claude 101](https://img.shields.io/badge/Anthropic-Claude_101-A855F7?style=flat-square)
-![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude_Code_101-A855F7?style=flat-square)
-![Claude Code in Action](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-A855F7?style=flat-square)
-![Claude with the Anthropic API](https://img.shields.io/badge/Anthropic-Claude_with_the_Anthropic_API-A855F7?style=flat-square)
-![MCP: Advanced Topics](https://img.shields.io/badge/Anthropic-MCP_Advanced_Topics-A855F7?style=flat-square)
+![Claude 101](https://img.shields.io/badge/Anthropic-Claude_101-0066FD?style=flat-square)
+![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude_Code_101-0066FD?style=flat-square)
+![Claude Code in Action](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-0066FD?style=flat-square)
+![Claude with the Anthropic API](https://img.shields.io/badge/Anthropic-Claude_with_the_Anthropic_API-0066FD?style=flat-square)
+![MCP: Advanced Topics](https://img.shields.io/badge/Anthropic-MCP_Advanced_Topics-0066FD?style=flat-square)
 
 </div>
 
@@ -322,8 +326,8 @@ Data pipelines, ML models and tooling.
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ZEYDLCN&hide_border=true&background=0d1117&ring=A855F7&fire=FF6D00&currStreakLabel=A855F7&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=A855F7&dates=6e7681">
-  <img src="https://streak-stats.demolab.com/?user=ZEYDLCN&hide_border=true&background=ffffff&ring=7C3AED&fire=FF6D00&currStreakLabel=7C3AED&sideNums=1f2328&currStreakNum=1f2328&sideLabels=7C3AED&dates=59636e" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ZEYDLCN&hide_border=true&background=0d1117&ring=0066FD&fire=0066FD&currStreakLabel=4D94FF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=4D94FF&dates=6e7681">
+  <img src="https://streak-stats.demolab.com/?user=ZEYDLCN&hide_border=true&background=ffffff&ring=0066FD&fire=0066FD&currStreakLabel=0066FD&sideNums=1f2328&currStreakNum=1f2328&sideLabels=0066FD&dates=59636e" alt="GitHub streak" />
 </picture>
 
 </div>
